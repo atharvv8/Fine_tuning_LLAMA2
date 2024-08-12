@@ -1,6 +1,7 @@
 ---
 title: Llama-2-7b-chat-finetune
 ---
+Model saved on [HuggingFace](https://huggingface.co/atharv0808/Llama-2-7b-chat-finetune)
 ## Model Description
 
 This repository contains the fine-tuned Llama 2 7B chat model, trained on the [mlabonne/guanaco-llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k) dataset using QLoRA. The model is intended for chat-based interactions and exhibits improved performance compared to the base Llama 2 7B chat model.
